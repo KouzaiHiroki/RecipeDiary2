@@ -107,3 +107,22 @@ footer {
 .linksns li {
     margin: 0 10px;
 }
+
+@media screen and (max-width: 834px) {
+    .introrecipe {
+        flex-direction: column;
+    }
+
+    .recipephoto {
+        width: 100%;
+    }
+
+    .recipephoto img {
+        height: auto;
+    }
+
+    .recipetext {
+        width: 100%;
+    }
+
+ }
