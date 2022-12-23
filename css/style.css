@@ -54,3 +54,27 @@ a {
     padding-bottom: 5px;
     margin: 40px 0 15px 0;
 }
+
+.ingredients {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ingredients dt {
+    width: 85%;
+    border-bottom: dotted 1px #ccc;
+    padding: 6px 0;
+}
+
+.ingredients dd {
+    width: 15%;
+    border-bottom: dotted 1px #ccc;
+    padding: 6px 0;
+    text-align: right;
+}
+
+.steps li {
+    border-bottom: dotted 1px #ccc;
+    padding: 6px 0;
+    margin-left: 20px;
+}
