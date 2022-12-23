@@ -43,3 +43,14 @@ a {
 }
 
 
+.recipetitle {
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+}
+
+.contenttitle {
+    border-bottom: solid 1px #ccc;
+    font-size: 1.25rem;
+    padding-bottom: 5px;
+    margin: 40px 0 15px 0;
+}
