@@ -98,13 +98,13 @@ footer {
     text-align: center;
 }
 
-.linksns {
+.linksns ul {
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
 }
 
-.linksns li {
+.linksns ul li {
     margin: 0 10px;
 }
 
